@@ -1,6 +1,8 @@
-# BlogPessoal
-Usando Spring MVC para criar uma API RESTful para nosso blog pessoal através de SpringTool + MySQL e testando no Insomnia
+# Loja de games BIG N
 
-Spring MVC = Model, View e Controller... É um excelente framework web, com ele nós conseguimos construir aplicações web robustas e flexíveis.
-API = As APIs são um conjunto de padrões que fazem parte de uma interface e que permitem a criação de plataformas de maneira mais simples e prática para desenvolvedores.
+- Criado o projeto no Spring Tool utilizando conceito de API RESTful (Model, Repository e Controller).
+- Feito o CRUD completo do recurso Produto (6 métodos)
+- Feito o CRUD completo do recurso Categoria (6 métodos)
+- Criado o Relacionamento do tipo One to Many entre as Classes Categoria e Produto.
+- API testada utilizando o Insomnia
 
